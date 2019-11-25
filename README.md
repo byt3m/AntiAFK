@@ -4,8 +4,8 @@ Little python script to stay AFK without getting kicked in any videogame.
 Requirements:
 - Python 3.7.4 or newer.
 - The next Python modules:
-    # keyboard.
-    # pyinput.
+    - keyboard.
+    - pyinput.
 
 Usage:
 1. Minizime your game.
